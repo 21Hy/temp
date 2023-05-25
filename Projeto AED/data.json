@@ -1,0 +1,16 @@
+{
+  "Clientes": [
+    {
+      "Username": "luis",
+      "Password": "1111",
+      "Nif": "123456789",
+      "Userdata": []
+    },
+    {
+      "Username": "Jorge",
+      "Password": "2222",
+      "Nif": "987654321",
+      "Userdata": []
+    }
+  ]
+}
